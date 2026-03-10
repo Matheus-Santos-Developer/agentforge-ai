@@ -55,3 +55,36 @@ In a MERN application:
 Typically, the frontend sends requests to the backend API, which processes logic and interacts with the database before returning responses to update the UI.
 
 ---
+
+# **Getting Started**
+
+1. Clone the repository
+
+```
+git clone https://github.com/BotPlayerAI/mern-stack-setup.git
+cd mern-stack-setup
+```
+
+2. Install dependencies
+
+Backend:
+```
+cd backend
+npm install
+```
+Frontend:
+```
+cd frontend
+npm install
+```
+
+3. Run the development servers
+
+Backend:
+```
+npm run dev
+```
+Frontend:
+```
+npm run dev
+```

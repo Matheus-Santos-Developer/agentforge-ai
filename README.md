@@ -20,6 +20,9 @@ The MERN stack consists of **MongoDB, Express, React, and Node.js**, a popular J
 - Vite
 - Tailwind CSS
 
+---
+
+# **Project Structure**
 ```
 mern-stack-setup
 │

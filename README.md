@@ -98,5 +98,3 @@ This project explores key concepts behind modern AI systems:
 * prompt orchestration
 * automated task execution
 * practical AI engineering workflows
-
----
